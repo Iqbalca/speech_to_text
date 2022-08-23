@@ -1,4 +1,5 @@
-# Speec to Text Recognition
+# Speech to Text Recognition 
+
 
 #### This repository uses the huggingface and the transformers library
 
