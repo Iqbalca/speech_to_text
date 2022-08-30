@@ -2,7 +2,7 @@
 
 ## This repository uses the huggingface and the transformers library
 
-- The huggingface library is the most popular NLP library with over 68,000 starts on [github](https://github.com/huggingface/transformers)
+- The huggingface library is the most popular NLP library with over 68,000 stars on [github](https://github.com/huggingface/transformers)
 - It provides state-of-the-art natural processing models and very clean API.
   
 - Transformers library supports with a deep learning library like PyTorch, TensorFlow
