@@ -53,7 +53,7 @@ The model facebook wav2vec2 large xlsr-53-german is a Natural Language Processin
 
 - We can find this model easily in transformers python library.
 - To download and use any of the pretrained models for our given task
-- We  just need to use few lines of codes (PyTorch version).
+- We  just need to use few lines of codes (PyTorch version)
 
 ### Usage in Python
 
