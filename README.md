@@ -29,6 +29,9 @@
 - wav2vec2.0
 - Conformer Transducer
 - Conformer CTC
+- Quartznet
+- ContextNet
+- Citrinet
 - Speechbrain
   
 ## Model wav2vec2.0
